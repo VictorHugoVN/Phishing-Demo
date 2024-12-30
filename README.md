@@ -1,0 +1,5 @@
+Lista de comandos no Setoolkit para a criação do Phishing:
+	1) Social-Engineering Attcks
+	2) Website Attack Vectors
+	3) Credential Harvester Attack Method
+	2) Site Cloner
